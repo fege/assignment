@@ -13,10 +13,13 @@ nvm install 22
 `npm init playwright@latest`
 
 
-### How to run the tests and show the report
-
+### How to run the tests
+Follow the instructions in the assignment file to start Kong Manager
 ```
 npx playwright test
+````
+### How to show the html report
+```
 npx playwright show-report
 ````
 
